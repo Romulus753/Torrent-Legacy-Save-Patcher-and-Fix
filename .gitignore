@@ -1,0 +1,23 @@
+# Visual Studio / .NET build output
+bin/
+obj/
+.vs/
+
+# Debug symbols
+*.pdb
+
+# User-specific Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
